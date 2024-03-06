@@ -1,0 +1,1 @@
+export const BLOCKFROST_PROJECT_ID: string = "previewIKsWhJZ0In4YfbhbURQShSRThKx4gvwx"
